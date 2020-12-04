@@ -15,7 +15,7 @@ namespace MarsRover
     class Program
     {
         static void Main(string[] args)
-        {
+        { 
             //Get Plato Data
             var platoValues = Console.ReadLine().ToUpper().Replace(" ", "");
             var platoXValue = Convert.ToInt16(platoValues[0].ToString());

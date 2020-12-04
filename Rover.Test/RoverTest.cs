@@ -16,7 +16,7 @@ namespace Rover.Test
     public class RoverTest
     {
         [TestMethod]
-        public void Is_rover_Handle_Incoorect_Letter()
+        public void Is_rover_Handle_Incoorect_Letter() 
         {
 
 
